@@ -1,0 +1,130 @@
+body {
+	margin: 0;
+	background-color: #fceeed;
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-position: right;
+#float {
+		background-color: #cdb3d8;
+		background-attachment: fixed;
+		margin: 0;
+		float: left;
+		width: 15%;
+}
+.logo{
+	float: left;
+	border-color: black;
+	border-style: dotted;
+	border-style: solid;
+	border-radius: 100px;
+	margin-top: 25px;
+	margin-right: 43px;
+	margin-left: 43px;
+	margin-bottom: 10px;
+}
+.header-name {
+	text-indent: 43px;
+	text-align: left;
+	font-family: cursive;
+	font-weight: bold;
+	margin-bottom: 50px;
+	letter-spacing: 2px;
+}
+.home {
+	margin-top: 30px;
+	margin-left: 30px;
+	color: black;
+}
+.pl {
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+.git {
+	margin-top: 100px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+#playlist {
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+.loc {
+	float: left;
+	margin-left: 17px;
+	margin-right: 8px;
+	margin-top: 2px;
+}
+.location {
+	font-size: 13px;
+}
+.mail{
+	margin-left: 17px;
+	margin-right: 0px;
+}
+.gmail { 
+	float: right;
+	font-size: 9.5px;
+	margin-right: 13px;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+.wow{
+	color: #957DAD;
+	font-weight: bold;
+}
+#content-right {
+	width: 85%;
+}
+.ma {
+	margin: 0;
+	text-indent: 340px;
+	text-shadow: 2px 2px 2px black;
+	font-weight: bold;
+	font-size: 80px;
+	font-family: cursive;
+	color: #cdb4db;
+}
+.ma a:hover{
+	color: #9C89FF;
+}
+.top {
+	padding-top: 50px;
+}
+.quotes {
+	text-align: center;
+	text-indent: 170px;
+	line-height: 5px;
+	font-style: italic;
+}
+.wow {
+	line-height: 3px;
+	font-family: comic sans ms;
+	font-size: 15px;
+}
+.pic {
+	border-radius: 25px;
+	display: block;
+	margin-bottom: 15px;
+}
+.huy {
+	color: #341179;
+	text-shadow: 2px 2px 2 #957DAD;
+	font-family: verdana;
+}
+.huy a:hover{
+	color: #9C89FF;
+}
+.huy1{
+	color: black;
+	line-height: 20px;
+}
+.quotes2{
+	text-align: center;
+	margin-top: 30px;
+	font-style: italic;
+}
